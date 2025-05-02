@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PwMidiaCaptacaoLeads.Aplicacao/1.0.0": {
+        "dependencies": {
+          "PwMidiaCaptacaoLeads.Configuracao": "1.0.0",
+          "PwMidiaCaptacaoLeads.Dados": "1.0.0",
+          "PwMidiaCaptacaoLeads.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Aplicacao.dll": {}
+        }
+      },
+      "PwMidiaCaptacaoLeads.Configuracao/1.0.0": {
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Configuracao.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+        "dependencies": {
+          "PwMidiaCaptacaoLeads.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Dados.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PwMidiaCaptacaoLeads.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PwMidiaCaptacaoLeads.Configuracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

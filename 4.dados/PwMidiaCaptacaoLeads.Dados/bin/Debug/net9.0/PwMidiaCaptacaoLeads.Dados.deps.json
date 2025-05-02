@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+        "dependencies": {
+          "PwMidiaCaptacaoLeads.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Dados.dll": {}
+        }
+      },
+      "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+        "runtime": {
+          "PwMidiaCaptacaoLeads.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

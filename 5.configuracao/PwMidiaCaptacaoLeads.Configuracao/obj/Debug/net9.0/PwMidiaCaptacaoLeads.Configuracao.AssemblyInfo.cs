@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PwMidiaCaptacaoLeads.Configuracao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+744e19de42fd4f71a342c72bd48ee9dea086f53f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cfabf685cb432812f1057a519ee01d72d000df")]
 [assembly: System.Reflection.AssemblyProductAttribute("PwMidiaCaptacaoLeads.Configuracao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PwMidiaCaptacaoLeads.Configuracao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

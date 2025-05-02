@@ -1,0 +1,16 @@
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.deps.json
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.pdb
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Dominio.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Dominio.pdb
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.csproj.AssemblyReference.cache
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.AssemblyInfoInputs.cache
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.AssemblyInfo.cs
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.csproj.CoreCompileInputs.cache
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.sourcelink.json
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaC.DC69DE6B.Up2Date
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\refint\PwMidiaCaptacaoLeads.Dados.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Dados.pdb
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\4.dados\PwMidiaCaptacaoLeads.Dados\obj\Debug\net9.0\ref\PwMidiaCaptacaoLeads.Dados.dll

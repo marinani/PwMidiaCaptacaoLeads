@@ -1,0 +1,12 @@
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.deps.json
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.pdb
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.AssemblyInfoInputs.cache
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.AssemblyInfo.cs
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.csproj.CoreCompileInputs.cache
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.sourcelink.json
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\refint\PwMidiaCaptacaoLeads.Configuracao.dll
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Configuracao.pdb
+C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\obj\Debug\net9.0\ref\PwMidiaCaptacaoLeads.Configuracao.dll
