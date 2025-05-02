@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f33Td7g4JA4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\1.apresentacoes\\PwMidiaCaptacaoLeads.Api\\PwMidiaCaptacaoLeads.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARINANI DEV\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\MARINANI DEV\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

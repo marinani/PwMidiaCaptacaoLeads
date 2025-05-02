@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\3.dominio\PwMidiaCaptacaoLeads.Dominio\PwMidiaCaptacaoLeads.Dominio.csproj" />
+    <ProjectReference Include="..\..\4.dados\PwMidiaCaptacaoLeads.Dados\PwMidiaCaptacaoLeads.Dados.csproj" />
+    <ProjectReference Include="..\..\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\PwMidiaCaptacaoLeads.Configuracao.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

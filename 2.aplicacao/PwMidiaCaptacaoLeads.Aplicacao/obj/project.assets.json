@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "PwMidiaCaptacaoLeads.Configuracao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Configuracao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Configuracao.dll": {}
+        }
+      },
+      "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PwMidiaCaptacaoLeads.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Dados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Dados.dll": {}
+        }
+      },
+      "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PwMidiaCaptacaoLeads.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PwMidiaCaptacaoLeads.Configuracao/1.0.0": {
+      "type": "project",
+      "path": "../../5.configuracao/PwMidiaCaptacaoLeads.Configuracao/PwMidiaCaptacaoLeads.Configuracao.csproj",
+      "msbuildProject": "../../5.configuracao/PwMidiaCaptacaoLeads.Configuracao/PwMidiaCaptacaoLeads.Configuracao.csproj"
+    },
+    "PwMidiaCaptacaoLeads.Dados/1.0.0": {
+      "type": "project",
+      "path": "../../4.dados/PwMidiaCaptacaoLeads.Dados/PwMidiaCaptacaoLeads.Dados.csproj",
+      "msbuildProject": "../../4.dados/PwMidiaCaptacaoLeads.Dados/PwMidiaCaptacaoLeads.Dados.csproj"
+    },
+    "PwMidiaCaptacaoLeads.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../../3.dominio/PwMidiaCaptacaoLeads.Dominio/PwMidiaCaptacaoLeads.Dominio.csproj",
+      "msbuildProject": "../../3.dominio/PwMidiaCaptacaoLeads.Dominio/PwMidiaCaptacaoLeads.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "PwMidiaCaptacaoLeads.Configuracao >= 1.0.0",
+      "PwMidiaCaptacaoLeads.Dados >= 1.0.0",
+      "PwMidiaCaptacaoLeads.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MARINANI DEV\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\2.aplicacao\\PwMidiaCaptacaoLeads.Aplicacao\\PwMidiaCaptacaoLeads.Aplicacao.csproj",
+      "projectName": "PwMidiaCaptacaoLeads.Aplicacao",
+      "projectPath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\2.aplicacao\\PwMidiaCaptacaoLeads.Aplicacao\\PwMidiaCaptacaoLeads.Aplicacao.csproj",
+      "packagesPath": "C:\\Users\\MARINANI DEV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\2.aplicacao\\PwMidiaCaptacaoLeads.Aplicacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MARINANI DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\3.dominio\\PwMidiaCaptacaoLeads.Dominio\\PwMidiaCaptacaoLeads.Dominio.csproj": {
+              "projectPath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\3.dominio\\PwMidiaCaptacaoLeads.Dominio\\PwMidiaCaptacaoLeads.Dominio.csproj"
+            },
+            "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\4.dados\\PwMidiaCaptacaoLeads.Dados\\PwMidiaCaptacaoLeads.Dados.csproj": {
+              "projectPath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\4.dados\\PwMidiaCaptacaoLeads.Dados\\PwMidiaCaptacaoLeads.Dados.csproj"
+            },
+            "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\5.configuracao\\PwMidiaCaptacaoLeads.Configuracao\\PwMidiaCaptacaoLeads.Configuracao.csproj": {
+              "projectPath": "C:\\Users\\MARINANI DEV\\Documents\\GitHub\\PwMidiaCaptacaoLeads\\5.configuracao\\PwMidiaCaptacaoLeads.Configuracao\\PwMidiaCaptacaoLeads.Configuracao.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
