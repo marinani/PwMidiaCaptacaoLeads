@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PwMidiaCaptacaoLeads.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cfabf685cb432812f1057a519ee01d72d000df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313e0cc131cbb5e06dd694dcfdd9a4ade22c2271")]
 [assembly: System.Reflection.AssemblyProductAttribute("PwMidiaCaptacaoLeads.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PwMidiaCaptacaoLeads.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

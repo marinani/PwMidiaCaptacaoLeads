@@ -1,11 +1,5 @@
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\appsettings.json
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.staticwebassets.endpoints.json
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.exe
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.deps.json
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.runtimeconfig.json
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.dll
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Api.pdb
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\bin\Debug\net9.0\PwMidiaCaptacaoLeads.Aplicacao.dll
@@ -35,9 +29,6 @@ C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMi
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PwMidiaCaptacaoLeads.Api.props
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\PwMidiaC.D55CA6E1.Up2Date
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Api.dll
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\refint\PwMidiaCaptacaoLeads.Api.dll
 C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Api.pdb
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\PwMidiaCaptacaoLeads.Api.genruntimeconfig.cache
-C:\Users\MARINANI DEV\Documents\GitHub\PwMidiaCaptacaoLeads\1.apresentacoes\PwMidiaCaptacaoLeads.Api\obj\Debug\net9.0\ref\PwMidiaCaptacaoLeads.Api.dll
