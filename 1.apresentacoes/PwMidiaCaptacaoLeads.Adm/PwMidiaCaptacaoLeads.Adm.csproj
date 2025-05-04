@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\2.aplicacao\PwMidiaCaptacaoLeads.Aplicacao\PwMidiaCaptacaoLeads.Aplicacao.csproj" />
+  </ItemGroup>
+
 </Project>

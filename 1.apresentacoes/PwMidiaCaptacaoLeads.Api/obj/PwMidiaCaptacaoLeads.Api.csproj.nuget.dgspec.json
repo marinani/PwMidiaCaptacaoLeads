@@ -140,6 +140,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Facebook": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Google.Ads.GoogleAds": {
+              "target": "Package",
+              "version": "[22.2.0, )"
+            },
+            "Google.Apis.Analytics.v3": {
+              "target": "Package",
+              "version": "[1.68.0.1679, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

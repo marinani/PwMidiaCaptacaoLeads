@@ -1,4 +1,19 @@
+using PwMidiaCaptacaoLeads.Aplicacao.Servicos;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+// Configurações de credenciais
+builder.Services.AddSingleton(new GoogleAuthService(
+    builder.Configuration["Google:ClientId"],
+    builder.Configuration["Google:ClientSecret"]
+));
+
+builder.Services.AddSingleton(new MetaAuthService(
+    builder.Configuration["Meta:AccessToken"]
+));
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -6,6 +6,17 @@
     <ProjectReference Include="..\..\5.configuracao\PwMidiaCaptacaoLeads.Configuracao\PwMidiaCaptacaoLeads.Configuracao.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Modelos\" />
+    <Folder Include="Servicos\Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Facebook" Version="7.0.6" />
+    <PackageReference Include="Google.Ads.GoogleAds" Version="22.2.0" />
+    <PackageReference Include="Google.Apis.Analytics.v3" Version="1.68.0.1679" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
